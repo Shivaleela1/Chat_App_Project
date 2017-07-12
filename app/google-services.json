@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "534451385407",
+    "firebase_url": "https://chat-8e5a4.firebaseio.com",
+    "project_id": "chat-8e5a4",
+    "storage_bucket": "chat-8e5a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534451385407:android:f3babdbf12f1ed8b",
+        "android_client_info": {
+          "package_name": "com.example.abhi.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534451385407-d8reorl9kr0r8m4o9ahv670cgri8ge3a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.abhi.chatapp",
+            "certificate_hash": "d90421b4b7a76ea2ba84cacaaf35befde1597520"
+          }
+        },
+        {
+          "client_id": "534451385407-h5c3m3uc4umuva3t7avvv0mn9i1iv4e2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6zSG2rO2ITiQd78KB15UtnVv-iacz1gk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534451385407-h5c3m3uc4umuva3t7avvv0mn9i1iv4e2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
