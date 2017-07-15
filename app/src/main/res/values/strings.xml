@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">ChatApp</string>
+    <string name="app_name">Firebase Chat application</string>
     <string name="enter">Enter your message</string>
 </resources>
